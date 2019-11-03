@@ -1,0 +1,72 @@
+Code;Axis;Preferred_Synonym;Editorial_Change;Term_in_English;Definition_in_English;Term_Translated;Definition_Translated;Area_del_corpo oppure Psiche oppure Relazione
+10000023;L;pref;;Abdomen;Body Region;Addome;Regione corporea;Addome
+10002417;L;pref;;Anus;Body Opening;Ano;Orifizio corporeo;Ano
+10002365;L;pref;;Anterior;Anterior Posterior Position;Anteriore;Posizione antero-posteriore;Anteriore
+10002493;L;pref;;Areole;Body Region;Areola;Regione corporea;Areola
+10002061;F;pref;;Air;Material: Invisible gaseous substance surrounding the earth and necessary for survival of most plants and animals.;Aria;Materia: Invisibile sostanza gassosa che circonda la terra, necessaria alla sopravvivenza della maggior parte delle piante e degli animal;
+10006593;L;pref;;Elbow Joint;Joint;Articolazine del gomito;Articolazione;Articolazine del gomito
+10010968;L;pref;;Joint;Musculoskeletal System Component;Articolazione;Componente dell'apparato muscoloscheletrico;Articolazione
+10011003;L;pref;;Knee Joint;Joint;Articolazione del ginocchio;Articolazione;Articolazione del ginocchio
+10002354;L;pref;;Ankle Joint;Joint;Articolazione della caviglia;Articolazione;Articolazione della caviglia
+10009024;L;pref;;Hip Joint;Joint;Articolazione dell'anca;Articolazione;Articolazione dell'anca
+10008164;L;pref;;Forearm;Body Region;Avambraccio;Regione corporea;Avambraccio
+10002504;L;pref;;Arm;Body Region;Braccio;Regione corporea;Braccio
+10008908;L;pref;;Heel;Body Region;Calcagno;Regione corporea; Calcagno
+10008626;L;pref;;Hair;"Integumentary System Component: Fine threadlike strands growing from surface of the body such as scalp hair, facial hair including beard and body hair; each single hair is a filament of keratin with a root and a shaft formed in a specialised follicle in epidermis; intactness and function of especially scalp and facial hair relates to elasticity, texture and thickness; length, colour, appearance including cleanness, presence or absence of hair.";Capelli e peli;"Componente del sistema tegumentario: annesso cutaneo filiforme che cresce sulla superficie corporea, come capelli, barba  e peli corporei; ogni singolo capello/pelo è costituito da un filamento di cheratina con una radice e uno stelo che originano da un follicolo epidermico specializzato; l'integrità  e la funzione, in particolare dei capelli e dei peli del viso, dipendono da elasticità, consistenza e spessore; lunghezza, colore, aspetto, pulizia, presenza o assenza di capelli e peli.";Capelli e peli
+10013224;L;pref;;Nipple;Body Region;Capezzolo;Regione corporea;Capezzolo
+10012424;L;pref;;Nasal Cavity;Body Cavity;Cavità nasale;Cavità corporea;Cavità nasale
+10013720;L;pref;;Oral Cavity;Body Cavity;Cavità orale;Cavità corporea;Cavità orale
+10004104;L;pref;;Central;Central Peripheral Position;Centrale;Posizione centrale-periferica;Centrale
+10004471;L;pref;;Clitoris;Female Reproductive Body Part;Clitoride;Parte corporea dell'apparato riproduttivo femminile;Clitoride
+10012476;L;pref;;Neck;Body Region;Collo;Regione corporea;Collo
+10004968;L;pref;;Conjunctiva;Sensory System Component;Congiuntiva;Componenete del sistema sensoriale;Congiuntiva
+10005212;L;pref;;Cornea;Sensory System Component;Cornea;Componenete del sistema sensoriale;Cornea
+10003388;L;pref;;Body;Body Structure;Corpo;Struttura corporea;Corpo
+10019659;L;pref;;Thigh;Body Region;Coscia;Regione corporea;Coscia
+10019830;L;pref;;Tooth;Bone;Dente;Osso;Dente
+10017234;L;pref;;Right;Left Right Position;Destra;Posizione sinistra-destra;Destra
+10007937;L;pref;;Finger;Body Region;Dito;Regione corporea;Dito
+10019797;L;pref;;Toe;Body Region;Dito del piede;Regione corporea;Dito del piede
+10003106;L;pref;;Back;Body Region;Dorso;Regione corporea;Dorso
+10007971;L;pref;;Flank;Body Region;Fianco;Regione corporea;Fianco
+10008172;L;pref;;Forehead;Body Region;Fronte;Regione corporea;Fronte
+10004245;L;pref;;Chest Wall;Body Region;Gabbia toracica;Regione corporea;Gabbia toracica
+10011298;L;pref;;Leg;Body Region;Gamba;Regione corporea;Gamba
+10011440;L;pref;;Lower;Lower Upper Position;Inferiore;Posizione inferiore-superiore;Inferiore
+10011377;L;pref;;Lip;Body Region;Labbro;Regione corporea;Labbro
+10011163;L;pref;;Laterality;Status;Lateralità;Posizione;Lateralità
+10019824;L;pref;;Tongue;Sensory System Component;Lingua;Componente del sistema sensitivo;Lingua
+10008661;L;pref;;Hand;Body Region;Mano;Regione corporea;Mano
+10010947;L;pref;;Jaw;Body Region;Mascella;Regione corporea;Mascella
+10004382;L;pref;;Chin;Body Region;Mento;Regione corporea;Mento
+10013731;L;pref;;Oral Mucous Membrane;Mucous Membrane;Mucosa orale;Mucosa;Mucosa orale
+10013314;L;pref;;Nose;Sensory System Component;Naso;Componente del sistema sensoriale;Naso
+10003792;L;pref;;Buttock;Body Region;Natica;Regione corporea;Natica
+10007452;L;pref;;Eye;Sensory System Component;Occhio;Componenete del sistema sensoriale;Occhio
+10006488;L;pref;;Ear;Sensory System Component;Orecchio;Componenete del sistema sensoriale;Orecchio
+10007468;L;pref;;Eyelid;Body Region;Palpebra;Regione corporea;Palpebra
+10007857;L;pref;;Female Reproductive Body Part;Reproductive System Component;Parte corporea dell'apparato rirpoduttivo femminile;Componente dell'apparato riproduttivo;Parte corporea dell'apparato rirpoduttivo femminile
+10018239;L;pref;;Skin;Integumentary System Component: Supple tough outermost natural surface of the body with functions related to elasticity, texture and thickness in order to keep the keratinised covering layer intact, hydrated, smooth, neither extremely cold nor warm.;Pelle;Componente del sistema tegumentario: strato corporeo naturale più esterno duro ed elastico le cui caratteristiche di elasticità, struttura e spessore consentono di mantenere lo strato di rivestimento cheratinico, intatto, idratato, liscio,  né freddo né caldo;Pelle
+10014236;L;pref;;Pelvis;Body Region;Pelvi;Regione corporea;Pelvi
+10014243;L;pref;;Penis;Male Reproductive Body Part;Pene;Organo riproduttivo maschile;Pene
+10014340;L;pref;;Perineum;Body Region;Perineo;Regione corporea;Perineo
+10008155;L;pref;;Foot;Body Region;Piede;Regione corporea;Piede
+10021262;L;pref;;Wrist;Body Region;Polso;Regione corporea;Polso
+10014994;L;pref;;Posterior;Anterior Posterior Position;Posteriore;Posizione antero-posteriore;Posteriore
+10015942;L;pref;;Proximal;Proximal Distal Position;Prossimale;Posizione prossimale-distale;Prossimale
+10017402;L;pref;;Sacrum;Body Region;Sacro;Regione corporea;Sacro
+10017494;L;pref;;Scalp;Body Region;Scalpo;Regione corporea;Scalpo
+10017603;L;pref;;Scrotum;Male Reproductive Body Part;Scroto;Organo riproduttivo maschile;Scroto
+10003650;L;pref;;Breast;Body Region;Seno;Regione corporea;Seno
+10002280;L;pref;;Anal Sphincter;Gastrointestinal System Component;Sfintere anale;Componente dell'apparato gastrointestinale;Sfintere anale
+10020413;L;pref;;Urinary Sphincter;Urinary System Component;Sfintere urinario;Componente del sistema urinario;Sfintere urinario
+10011267;L;pref;;Left;Left Right Position;Sinistra;Posizione sinistra-destra;Sinistra
+10041174;L;pref;;Shoulder;Body Region;Spalla;Regione corporea;Spalla
+10019103;L;pref;;Supine;Body Position;Supina;Posizione del corpo;Supina
+10008688;L;pref;;Head;Body Region;Testa;Regione corporea;Testa
+10019600;L;pref;;Testis;Male Reproductive Body Part;Testicoli;Organo riproduttivo maschile;Testicoli
+10004213;L;pref;;Chest;Body Region;Torace;Regione corporea;Torace
+10019692;L;pref;;Thorax;Body Region;Torace;Regione corporea;Torace
+10020180;L;pref;;Trunk;Body Region;Tronco;Regione corporea;Tronco
+10012392;L;pref;;Nail;"Integumentary System Component: Flattened, elastic structure with a honey texture at the end of a finger or a toe comprised of a root, body and free edge at the distal extremity; intactness and function of fingernails and toenails relates to texture, length and thickness in order to protect end of fingers and toes and to help in picking up small objects; length, colour, appearance including cleanness.";Unghia;"Componente del sistema tegumentario: struttura elastica, piatta, con una certa consistenza, situata all'estremità  distale delle dita della mano o del piede, composta da una radice, un corpo e un'estremità distale libera; l'integrità  e la funzione delle unghie sono in relazione alla struttura, lunghezza e spessore, in modo da proteggere l'estremità  delle dita e permettere di raccogliere piccoli oggetti; lunghezza, colore, aspetto inclusa la pulizia.";Unghia
+10020575;L;pref;;Vagina;Body Cavity;Vagina;Cavità corporea;Vagina
